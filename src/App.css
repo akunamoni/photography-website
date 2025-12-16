@@ -1,0 +1,11 @@
+/* Global app helpers used by components */
+
+.app-root {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.section-pad { padding-top: 4rem; padding-bottom: 4rem; }
+
+.text-muted { color: rgba(255,255,255,0.6); }
